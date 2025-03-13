@@ -32,5 +32,6 @@ public class MailConfig {
         props.put("mail.smtp.timeout", "5000");
 
         return mailSender;
+        
     }
 }
